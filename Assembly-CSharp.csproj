@@ -62,8 +62,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CanSee.cs" />
+    <Compile Include="Assets\Scripts\BulletMoving.cs" />
+    <Compile Include="Assets\Scripts\BulletPlayer.cs" />
+    <Compile Include="Assets\Scripts\EnemySense.cs" />
+    <Compile Include="Assets\Scripts\HealthBarTest.cs" />
+    <Compile Include="Assets\Scripts\NoiseMaker.cs" />
+    <Compile Include="Assets\Scripts\NoticeTextTest.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\UIManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/KIRWALLS/Desktop/Project 3/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
